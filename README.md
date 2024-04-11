@@ -3,6 +3,6 @@
 
 <h1 align="center">
 	<a href="">
-		<img src="https://pa1.aminoapps.com/6385/2a1363b291bc05c59718588a76fbac842dda5863_hq.gif" />
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZEJ8TTuJ9q_AiCldrjEfrIvsAqXlTFqKTM3Ohu3BOyT0x6iEsUOaHdmbsLI5H7bUyA&usqp=CAU" />
 	</a>
 </h1>
