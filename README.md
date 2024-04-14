@@ -28,7 +28,7 @@ Sobre mi
 </h2> 
 
 <div >
-<img align="right" src="https://64.media.tumblr.com/215c99c30413f06b18560dd2672f4e00/734bb894bd2b0c25-6e/s400x600/70d3a7e8606d7bd9b3e71f0856529b9918769a3c.gif" width="400"/>
+<img align="right" src="https://64.media.tumblr.com/215c99c30413f06b18560dd2672f4e00/734bb894bd2b0c25-6e/s400x600/70d3a7e8606d7bd9b3e71f0856529b9918769a3c.gif" width="400" height="400"/>
 
 <p align="justify">
 	Me gusta que me llamen Lupita, Lu o Crespo. 
