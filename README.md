@@ -28,7 +28,7 @@ Sobre mi
 </h2> 
 
 <div >
-<img align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="400"/>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTBt5xLLsf9SB_AhqwTNVV90fL6R3P9AvNSkf5RIh9g&s" width="400"/>
 
 <p align="justify">
 	Mi nombre es Guadalupe Crespo, tengo 26 años y vivo en Puebla. Soy pasante en Ingeniería en Sistemas y Tecnologías de Informacion Industrial. Actualmente estoy en un curso para obtener una certificacion con el programa Mujer Digital y asi poder ingresar a un trabajo formal
