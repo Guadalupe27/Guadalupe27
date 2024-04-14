@@ -28,9 +28,9 @@ Sobre mi
 </h2> 
 
 <div >
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTBt5xLLsf9SB_AhqwTNVV90fL6R3P9AvNSkf5RIh9g&s" width="400"/>
+<img align="right" src="https://64.media.tumblr.com/215c99c30413f06b18560dd2672f4e00/734bb894bd2b0c25-6e/s400x600/70d3a7e8606d7bd9b3e71f0856529b9918769a3c.gif" width="400"/>
 
 <p align="justify">
-	Mi nombre es Guadalupe Crespo, tengo 26 años y vivo en Puebla. Soy pasante en Ingeniería en Sistemas y Tecnologías de Informacion Industrial. Actualmente estoy en un curso para obtener una certificacion con el programa Mujer Digital y asi poder ingresar a un trabajo formal
-</p>
+	Me gusta que me llamen Lupita, Lu o Crespo. Me gusta mucho el color negro, azul, morado y aunque un tiempo los tonos rosas eran de mis no favoritos, la verdad ultimamente he adquirido ropa en esos tonos y admito que si me gustan. En mis tiempos libres disfruto mucho escuchar musica (aunque realmente lo hago todo el tiempo jeje) y escucho de todos los generos, pero mis favoritos son el Rock (en la gran mayoria de sus presentaciones), el metal 🤘🏼, el pop, etc. Unas de mis bandas favoritas son Black Veil Brides (vivo enamorada de Andy) y Pxndx (José Madero es el amor de mi vida jajaja)
+ </p>
 </div>
