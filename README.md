@@ -79,7 +79,7 @@ Sobre mi
 		👩🏽‍💻 Creación de entornos con RA y RV
 	</p>
 	<p>
-		👩🏽‍💻 Diseñador/Editor de foto y video
+		👩🏽‍💻 Diseño/Edición de foto y video
 	</p>
 	<p>
 		👩🏽‍💻 Community Manager
