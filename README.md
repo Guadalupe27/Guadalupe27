@@ -8,13 +8,13 @@
 	</a>
 </h1>
 
+<p align="justify" width="24px" >Mi nombre es Guadalupe Crespo, tengo 26 años y vivo en Puebla. Soy pasante en Ingeniería en Sistemas y Tecnologías de Informacion Industrial. Actualmente estoy en un curso para obtener una certificacion con el programa Mujer Digital y asi poder ingresar a un trabajo formal</p>
+
 <div align=center style="display:flex; justify-content: space-around">
   <a href="https://www.instagram.com/lupxi_crespo?igsh=MXBxc2R4cmZieXZqaQ=="><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=C837AC&logo=Instagram&logoColor=FFFFFF&label=" /></a>
   <a href="https://x.com/Lupxi_Crespo?t=jFLfo6Z7J8MSNWg3eLKaOw&s=09"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=x&logoColor=FFFFFF&label=" alt="Twitter" /></a>
   <a href="www.linkedin.com/in/guadalupe-crespo-torres-07418616b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 </div>
-
-<p align="justify" width="24px" >Mi nombre es Guadalupe Crespo, tengo 26 años y vivo en Puebla. Soy pasante en Ingeniería en Sistemas y Tecnologías de Informacion Industrial. Actualmente estoy en un curso para obtener una certificacion con el programa Mujer Digital y asi poder ingresar a un trabajo formal</p>
 
 <h1 align="center">
 	<a href="">
