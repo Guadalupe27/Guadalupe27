@@ -8,6 +8,11 @@
 	</a>
 </h1>
 
+<div align=center style="display:flex; justify-content: space-around">
+  <a href="https://www.instagram.com/lupxi_crespo?igsh=MXBxc2R4cmZieXZqaQ=="><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=C837AC&logo=Instagram&logoColor=FFFFFF&label=" /></a>
+  <a href="https://x.com/Lupxi_Crespo?t=jFLfo6Z7J8MSNWg3eLKaOw&s=09"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=x&logoColor=FFFFFF&label=" alt="Twitter" /></a>
+  <a href="www.linkedin.com/in/guadalupe-crespo-torres-07418616b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+</div>
 
 <p align="justify" width="24px" >Mi nombre es Guadalupe Crespo, tengo 26 años y vivo en Puebla. Soy pasante en Ingeniería en Sistemas y Tecnologías de Informacion Industrial. Actualmente estoy en un curso para obtener una certificacion con el programa Mujer Digital y asi poder ingresar a un trabajo formal</p>
 
@@ -38,3 +43,6 @@ Sobre mi
 	Al vivir sola aprendi a disfrutar mucho mi tiempo conmigo y descubri que la soledad no es tan mala, me gusta convivir con mis seres queridos pero no cambio mi soledad por nada.
  </p>
 </div>
+<a href="">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZEJ8TTuJ9q_AiCldrjEfrIvsAqXlTFqKTM3Ohu3BOyT0x6iEsUOaHdmbsLI5H7bUyA&usqp=CAU" />
+</a>
