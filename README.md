@@ -33,13 +33,13 @@ Sobre mi
 </h2> 
 
 <div >
-<img align="right" src="https://64.media.tumblr.com/215c99c30413f06b18560dd2672f4e00/734bb894bd2b0c25-6e/s400x600/70d3a7e8606d7bd9b3e71f0856529b9918769a3c.gif" width="500" height="400" border="10"/>
+<img align="right" src="https://64.media.tumblr.com/215c99c30413f06b18560dd2672f4e00/734bb894bd2b0c25-6e/s400x600/70d3a7e8606d7bd9b3e71f0856529b9918769a3c.gif" width="500" height="500" border="10"/>
 
 <p align="justify">
 	Me gusta que me llamen Lupita, Lu o Crespo. 
 </p>
  <p align="left">
-	 Soy una mujer que disfruta mucho la programación y enfrentarse a nuevos retos. Desde pequeña el mundo de la tecnología me apasiona. Actualmente me gusta mucho aprender cosas nuevas con referente a la tecnología, su creacion y funcionamiento.
+	 Soy una mujer que disfruta programar y enfrentarse a nuevos retos. Desde pequeña el mundo de la tecnología me apasiona. Actualmente me gusta aprender cosas nuevas con referente a la tecnología, su creación y funcionamiento.
  </p>
 <p align="left">
 	Me gusta mucho el color negro, azul, morado y aunque un tiempo los tonos rosas eran de mis no favoritos, la verdad ultimamente he adquirido ropa en esos tonos y admito que si me gustan. </p>
@@ -58,33 +58,32 @@ Sobre mi
 <a href="">
 		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
-Experiencia Laboral
+	Experiencia Laboral
 	<a href="">
 		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
 </h2> 
 
-<div >
-<img align="left" src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif" width="400" height="300" border="20"/>
-<div aling="center" border="20">
-<p align="justify">
-	Acualmente tengo experiencia en: 
-</p>
-<p align="left">
-	👩🏽‍💻 Desarrollo web 
-</p>
- <p align="left">
-	👩🏽‍💻 Creación de aplicaciones móviles
- </p>
- <p align="left">
-	👩🏽‍💻 Creación de entornos con RA y RV
- </p>
-<p align="left">
-	👩🏽‍💻 Diseñador/Editor de foto y video </p>
- <p align="left">
-	👩🏽‍💻 Community Manager
- </p>
-</div>
+<div style="display:flex; justify-content: space-around">
+	<img align="left" src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif" width="400" height="300" border="20"/>
+	<p align="justify">
+		<strong>Actualmente tengo experiencia en:</strong> 
+	</p>
+	<p>
+		👩🏽‍💻 Desarrollo web 
+	</p>
+	<p>
+		👩🏽‍💻 Creación de aplicaciones móviles
+	</p>
+	<p> 
+		👩🏽‍💻 Creación de entornos con RA y RV
+	</p>
+	<p>
+		👩🏽‍💻 Diseñador/Editor de foto y video
+	</p>
+	<p>
+		👩🏽‍💻 Community Manager
+	</p>	
 </div>
 <h1 align="center">
 	<a href="">
